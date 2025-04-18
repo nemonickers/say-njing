@@ -1,5 +1,5 @@
 package say_tot
 
 func SayTot() string {
-	return "Haloo Tot"
+	return "Haloo Tot shita"
 }
